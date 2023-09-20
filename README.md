@@ -5,7 +5,7 @@ Repository for Documentations [Dicoding - Belajar Membuat Aplikasi Android untuk
 Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Screenshots Final Submission
-![Group 1](https://github.com/Miftakun/Wisata-Populer-di-Indonesia/blob/master/app/screenshoot/Screenshot%202023-09-18%20211842.png)&nbsp;
+![Group 1](https://github.com/Miftakun/Dicoding-AndroidPemula/blob/main/WisataPopulerdiIndonesia/app/screenshoot/grup1.png)&nbsp;
 
 
 
