@@ -20,7 +20,7 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
 - [x] A toolbar button for detail information app
 
 ## Installation
-Download and install beta version [here](https://github.com/Miftakun/Wisata-Populer-di-Indonesia/releases/download/v.1.0-beta/app-debug.apk)
+Download and install beta version [here](https://github.com/Miftakun/Dicoding-AndroidPemula/releases/download/v.1.0-beta/app-debug.apk)
 
 ## Author
 * #### Miftakun Niam
