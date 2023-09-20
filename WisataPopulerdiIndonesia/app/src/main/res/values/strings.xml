@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Wisata Populer di Indonesia</string>
+    <item name="tbInfo" type="menu" />
+    <string name="about">About</string>
+
+    <string name="vocation_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Bali</item>
+        <item>Yogyakarta</item>
+        <item>Komodo Island</item>
+        <item>Mount Bromo</item>
+        <item>Raja Ampat</item>
+        <item>Ubud</item>
+        <item>Lake Toba</item>
+        <item>Lombok</item>
+        <item>Borobudur Temple</item>
+        <item>Gili Islands</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bali is a popular tourist destination in Indonesia known for its beaches and culture. </item>
+        <item>Yogyakarta is a city on the island of Java known for its cultural heritage and temples.</item>
+        <item>Komodo Island is home to the famous Komodo dragons, the world\'s largest lizards.</item>
+        <item>Mount Bromo is an active volcano located in East Java, known for its stunning sunrise views.</item>
+        <item>Raja Ampat is a group of islands in West Papua known for their rich marine biodiversity</item>
+        <item>Ubud is a town in Bali known for its arts and culture.</item>
+        <item>Lake Toba is a volcanic lake in North Sumatra known for its scenic beauty and cultural significance.</item>
+        <item>Lombok is an island in West Nusa Tenggara known for its beaches and natural beauty.</item>
+        <item>Borobudur Temple is a UNESCO World Heritage Site located in Central Java, known for its ancient Buddhist architecture.</item>
+        <item>The Gili Islands are a group of three islands near Lombok known for their crystal clear waters and sandy beaches.</item>
+    </string-array>
+
+    <integer-array name="data_images">
+        <item>@drawable/bali</item>
+        <item>@drawable/yogyakarta</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/rajaampat</item>
+        <item>@drawable/ubud</item>
+        <item>@drawable/toba</item>
+        <item>@drawable/lombok</item>
+        <item>@drawable/borobudur</item>
+        <item>@drawable/gili</item>
+    </integer-array>
+    <string-array name="data_alamat">
+        <item>Beraban, Kediri, Tabanan Regency, Bali 82121</item>
+        <item>Jl. Rotowijayan Blok No. 1, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta</item>
+        <item>East Nusa Tenggara</item>
+        <item>East Java, Indonesia</item>
+        <item>Raja Ampat Regency, West Papua</item>
+        <item>jl. Subak Sok Wayah, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571</item>
+        <item>North Sumatra, Indonesia</item>
+        <item>Jl. Kuta Lombok, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573</item>
+        <item>Jl. Kaliurang No.KM. 22.5, Banteng, Hargobinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta</item>
+        <item>Jrakah, Kebonsari, Kebondowo, Banyubiru, Semarang Regency, Central Java </item>
+    </string-array>
+</resources>
